@@ -1,0 +1,201 @@
+﻿Installing assembly 'C:\Users\vaidy\Desktop\ServicesA07\bin\Debug\ServicesA07.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\vaidy\Desktop\ServicesA07\bin\Debug\ServicesA07.exe
+   logfile = C:\Users\vaidy\Desktop\ServicesA07\bin\Debug\ServicesA07.InstallLog
+Installing service GameServerService...
+Service GameServerService has been successfully installed.
+Creating EventLog source GameServerService in log Application...
+Committing assembly 'C:\Users\vaidy\Desktop\ServicesA07\bin\Debug\ServicesA07.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\vaidy\Desktop\ServicesA07\bin\Debug\ServicesA07.exe
+   logfile = C:\Users\vaidy\Desktop\ServicesA07\bin\Debug\ServicesA07.InstallLog
+Uninstalling assembly 'C:\Users\vaidy\Desktop\ServicesA07\bin\Debug\ServicesA07.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\vaidy\Desktop\ServicesA07\bin\Debug\ServicesA07.exe
+   logfile = C:\Users\vaidy\Desktop\ServicesA07\bin\Debug\ServicesA07.InstallLog
+Removing EventLog source GameServerService.
+Service GameServerService is being removed from the system...
+Service GameServerService was successfully removed from the system.
+Attempt to stop service GameServerService.
+Installing assembly 'C:\Users\vaidy\Desktop\ServicesA07\bin\Debug\ServicesA07.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\vaidy\Desktop\ServicesA07\bin\Debug\ServicesA07.exe
+   logfile = C:\Users\vaidy\Desktop\ServicesA07\bin\Debug\ServicesA07.InstallLog
+Installing service GameServerService...
+Service GameServerService has been successfully installed.
+Creating EventLog source GameServerService in log Application...
+Committing assembly 'C:\Users\vaidy\Desktop\ServicesA07\bin\Debug\ServicesA07.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\vaidy\Desktop\ServicesA07\bin\Debug\ServicesA07.exe
+   logfile = C:\Users\vaidy\Desktop\ServicesA07\bin\Debug\ServicesA07.InstallLog
+Installing assembly 'C:\Users\jp282\Desktop\ServicesA07\ServicesA07\bin\Debug\ServicesA07.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\jp282\Desktop\ServicesA07\ServicesA07\bin\Debug\ServicesA07.exe
+   logfile = C:\Users\jp282\Desktop\ServicesA07\ServicesA07\bin\Debug\ServicesA07.InstallLog
+Installing service GameServerService...
+Creating EventLog source GameServerService in log Application...
+Rolling back assembly 'C:\Users\jp282\Desktop\ServicesA07\ServicesA07\bin\Debug\ServicesA07.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\jp282\Desktop\ServicesA07\ServicesA07\bin\Debug\ServicesA07.exe
+   logfile = C:\Users\jp282\Desktop\ServicesA07\ServicesA07\bin\Debug\ServicesA07.InstallLog
+Restoring event log to previous state for source GameServerService.
+Installing assembly 'C:\Users\jp282\Desktop\ServicesA07\ServicesA07\bin\Debug\ServicesA07.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\jp282\Desktop\ServicesA07\ServicesA07\bin\Debug\ServicesA07.exe
+   logfile = C:\Users\jp282\Desktop\ServicesA07\ServicesA07\bin\Debug\ServicesA07.InstallLog
+Installing service GameServerService...
+Creating EventLog source GameServerService in log Application...
+Rolling back assembly 'C:\Users\jp282\Desktop\ServicesA07\ServicesA07\bin\Debug\ServicesA07.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\jp282\Desktop\ServicesA07\ServicesA07\bin\Debug\ServicesA07.exe
+   logfile = C:\Users\jp282\Desktop\ServicesA07\ServicesA07\bin\Debug\ServicesA07.InstallLog
+Restoring event log to previous state for source GameServerService.
+Installing assembly 'C:\Users\jp282\Desktop\ServicesA07\ServicesA07\bin\Debug\ServicesA07.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\jp282\Desktop\ServicesA07\ServicesA07\bin\Debug\ServicesA07.exe
+   logfile = C:\Users\jp282\Desktop\ServicesA07\ServicesA07\bin\Debug\ServicesA07.InstallLog
+Installing service GameServerService...
+Creating EventLog source GameServerService in log Application...
+Rolling back assembly 'C:\Users\jp282\Desktop\ServicesA07\ServicesA07\bin\Debug\ServicesA07.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\jp282\Desktop\ServicesA07\ServicesA07\bin\Debug\ServicesA07.exe
+   logfile = C:\Users\jp282\Desktop\ServicesA07\ServicesA07\bin\Debug\ServicesA07.InstallLog
+Restoring event log to previous state for source GameServerService.
+Uninstalling assembly 'C:\Users\jp282\Desktop\ServicesA07\ServicesA07\bin\Debug\ServicesA07.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\jp282\Desktop\ServicesA07\ServicesA07\bin\Debug\ServicesA07.exe
+   logfile = C:\Users\jp282\Desktop\ServicesA07\ServicesA07\bin\Debug\ServicesA07.InstallLog
+Removing EventLog source GameServerService.
+Service GameServerService is being removed from the system...
+Service GameServerService was successfully removed from the system.
+Installing assembly 'C:\Users\jp282\Desktop\ServicesA07\ServicesA07\bin\Debug\ServicesA07.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\jp282\Desktop\ServicesA07\ServicesA07\bin\Debug\ServicesA07.exe
+   logfile = C:\Users\jp282\Desktop\ServicesA07\ServicesA07\bin\Debug\ServicesA07.InstallLog
+Installing service GameServerService...
+Service GameServerService has been successfully installed.
+Creating EventLog source GameServerService in log Application...
+Committing assembly 'C:\Users\jp282\Desktop\ServicesA07\ServicesA07\bin\Debug\ServicesA07.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\jp282\Desktop\ServicesA07\ServicesA07\bin\Debug\ServicesA07.exe
+   logfile = C:\Users\jp282\Desktop\ServicesA07\ServicesA07\bin\Debug\ServicesA07.InstallLog
+Uninstalling assembly 'C:\Users\jp282\Desktop\ServicesA07\ServicesA07\bin\Debug\ServicesA07.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\jp282\Desktop\ServicesA07\ServicesA07\bin\Debug\ServicesA07.exe
+   logfile = C:\Users\jp282\Desktop\ServicesA07\ServicesA07\bin\Debug\ServicesA07.InstallLog
+Removing EventLog source GameServerService.
+Service GameServerService is being removed from the system...
+Service GameServerService was successfully removed from the system.
+Installing assembly 'C:\Users\jp282\Desktop\ServicesA07\ServicesA07\bin\Debug\ServicesA07.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\jp282\Desktop\ServicesA07\ServicesA07\bin\Debug\ServicesA07.exe
+   logfile = C:\Users\jp282\Desktop\ServicesA07\ServicesA07\bin\Debug\ServicesA07.InstallLog
+Installing service GameServerService...
+Service GameServerService has been successfully installed.
+Creating EventLog source GameServerService in log Application...
+Committing assembly 'C:\Users\jp282\Desktop\ServicesA07\ServicesA07\bin\Debug\ServicesA07.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\jp282\Desktop\ServicesA07\ServicesA07\bin\Debug\ServicesA07.exe
+   logfile = C:\Users\jp282\Desktop\ServicesA07\ServicesA07\bin\Debug\ServicesA07.InstallLog
+Uninstalling assembly 'C:\Users\jp282\Desktop\ServicesA07\ServicesA07\bin\Debug\ServicesA07.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\jp282\Desktop\ServicesA07\ServicesA07\bin\Debug\ServicesA07.exe
+   logfile = C:\Users\jp282\Desktop\ServicesA07\ServicesA07\bin\Debug\ServicesA07.InstallLog
+Removing EventLog source GameServerService.
+Service GameServerService is being removed from the system...
+Service GameServerService was successfully removed from the system.
+Attempt to stop service GameServerService.
+Installing assembly 'C:\Users\jp282\Desktop\ServicesA07\ServicesA07\bin\Debug\ServicesA07.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\jp282\Desktop\ServicesA07\ServicesA07\bin\Debug\ServicesA07.exe
+   logfile = C:\Users\jp282\Desktop\ServicesA07\ServicesA07\bin\Debug\ServicesA07.InstallLog
+Installing service GameServerService...
+Service GameServerService has been successfully installed.
+Creating EventLog source GameServerService in log Application...
+Committing assembly 'C:\Users\jp282\Desktop\ServicesA07\ServicesA07\bin\Debug\ServicesA07.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\jp282\Desktop\ServicesA07\ServicesA07\bin\Debug\ServicesA07.exe
+   logfile = C:\Users\jp282\Desktop\ServicesA07\ServicesA07\bin\Debug\ServicesA07.InstallLog
+Uninstalling assembly 'C:\Users\jp282\Desktop\ServicesA07\ServicesA07\bin\Debug\ServicesA07.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\jp282\Desktop\ServicesA07\ServicesA07\bin\Debug\ServicesA07.exe
+   logfile = C:\Users\jp282\Desktop\ServicesA07\ServicesA07\bin\Debug\ServicesA07.InstallLog
+Removing EventLog source GameServerService.
+Service GameServerService is being removed from the system...
+Service GameServerService was successfully removed from the system.
+Installing assembly 'C:\Users\jp282\Desktop\ServicesA07\ServicesA07\bin\Debug\ServicesA07.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\jp282\Desktop\ServicesA07\ServicesA07\bin\Debug\ServicesA07.exe
+   logfile = C:\Users\jp282\Desktop\ServicesA07\ServicesA07\bin\Debug\ServicesA07.InstallLog
+Installing service GameServerService...
+Service GameServerService has been successfully installed.
+Creating EventLog source GameServerService in log Application...
+Committing assembly 'C:\Users\jp282\Desktop\ServicesA07\ServicesA07\bin\Debug\ServicesA07.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\jp282\Desktop\ServicesA07\ServicesA07\bin\Debug\ServicesA07.exe
+   logfile = C:\Users\jp282\Desktop\ServicesA07\ServicesA07\bin\Debug\ServicesA07.InstallLog
+Installing assembly 'C:\Users\jp282\Desktop\ServicesA07\ServicesA07\bin\Debug\ServicesA07.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\jp282\Desktop\ServicesA07\ServicesA07\bin\Debug\ServicesA07.exe
+   logfile = C:\Users\jp282\Desktop\ServicesA07\ServicesA07\bin\Debug\ServicesA07.InstallLog
+Installing service GameServerService...
+Creating EventLog source GameServerService in log Application...
+Rolling back assembly 'C:\Users\jp282\Desktop\ServicesA07\ServicesA07\bin\Debug\ServicesA07.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\jp282\Desktop\ServicesA07\ServicesA07\bin\Debug\ServicesA07.exe
+   logfile = C:\Users\jp282\Desktop\ServicesA07\ServicesA07\bin\Debug\ServicesA07.InstallLog
+Restoring event log to previous state for source GameServerService.
+Uninstalling assembly 'C:\Users\jp282\Desktop\ServicesA07\ServicesA07\bin\Debug\ServicesA07.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\jp282\Desktop\ServicesA07\ServicesA07\bin\Debug\ServicesA07.exe
+   logfile = C:\Users\jp282\Desktop\ServicesA07\ServicesA07\bin\Debug\ServicesA07.InstallLog
+Removing EventLog source GameServerService.
+Service GameServerService is being removed from the system...
+Service GameServerService was successfully removed from the system.
+Installing assembly 'C:\Users\jp282\Desktop\ServicesA07\ServicesA07\bin\Debug\ServicesA07.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\jp282\Desktop\ServicesA07\ServicesA07\bin\Debug\ServicesA07.exe
+   logfile = C:\Users\jp282\Desktop\ServicesA07\ServicesA07\bin\Debug\ServicesA07.InstallLog
+Installing service GameServerService...
+Service GameServerService has been successfully installed.
+Creating EventLog source GameServerService in log Application...
+Committing assembly 'C:\Users\jp282\Desktop\ServicesA07\ServicesA07\bin\Debug\ServicesA07.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\jp282\Desktop\ServicesA07\ServicesA07\bin\Debug\ServicesA07.exe
+   logfile = C:\Users\jp282\Desktop\ServicesA07\ServicesA07\bin\Debug\ServicesA07.InstallLog
+Uninstalling assembly 'C:\Users\jp282\Desktop\ServicesA07\ServicesA07\bin\Debug\ServicesA07.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\jp282\Desktop\ServicesA07\ServicesA07\bin\Debug\ServicesA07.exe
+   logfile = C:\Users\jp282\Desktop\ServicesA07\ServicesA07\bin\Debug\ServicesA07.InstallLog
+Removing EventLog source GameServerService.
+Service GameServerService is being removed from the system...
+Service GameServerService was successfully removed from the system.

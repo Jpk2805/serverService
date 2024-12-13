@@ -1,0 +1,72 @@
+2024-12-06 09:34:18 - Server started on IP 127.0.0.1 and port 13000.
+2024-12-06 09:39:29 - Server is stopping...
+2024-12-06 09:39:29 - Server has stopped successfully.
+2024-12-06 09:39:29 - Listener stopped.
+2024-12-06 09:39:58 - Server started on IP 127.0.0.1 and port 13000.
+2024-12-06 10:06:15 - Server started on IP 127.0.0.1 and port 13000.
+2024-12-06 10:06:46 - Client connected: 127.0.0.1:64281
+2024-12-06 10:06:46 - Client disconnected: 127.0.0.1:64281
+2024-12-06 10:06:57 - Server is stopping...
+2024-12-06 10:06:57 - Server has stopped successfully.
+2024-12-06 10:53:39 - Server started on IP 127.0.0.1 and port 13000.
+2024-12-06 10:54:38 - Client connected: 127.0.0.1:52235
+2024-12-06 10:54:38 - Error with client 127.0.0.1:52235: Could not find a part of the path 'C:\WINDOWS\system32\GameData'.
+2024-12-06 10:54:38 - Client disconnected: 127.0.0.1:52235
+2024-12-06 11:32:17 - Client connected: 127.0.0.1:54556
+2024-12-06 11:32:17 - Error with client 127.0.0.1:54556: Could not find a part of the path 'C:\WINDOWS\system32\GameData'.
+2024-12-06 11:32:17 - Client disconnected: 127.0.0.1:54556
+2024-12-06 11:33:03 - Client connected: 127.0.0.1:54641
+2024-12-06 11:33:03 - Error with client 127.0.0.1:54641: Could not find a part of the path 'C:\WINDOWS\system32\GameData'.
+2024-12-06 11:33:03 - Client disconnected: 127.0.0.1:54641
+2024-12-06 11:34:52 - Server is stopping...
+2024-12-06 11:34:52 - Server has stopped successfully.
+2024-12-06 11:35:11 - Server started on IP 127.0.0.1 and port 13000.
+2024-12-06 11:35:26 - Client connected: 127.0.0.1:54801
+2024-12-06 11:35:26 - Error with client 127.0.0.1:54801: Could not find a part of the path 'C:\WINDOWS\system32\GameData'.
+2024-12-06 11:35:26 - Client disconnected: 127.0.0.1:54801
+2024-12-06 11:56:59 - Server is stopping...
+2024-12-06 11:56:59 - Server has stopped successfully.
+2024-12-06 12:02:32 - Server started on IP 127.0.0.1 and port 13000.
+2024-12-06 12:02:43 - Client connected: 127.0.0.1:56167
+2024-12-06 12:02:43 - Game data loaded from 'D:\.net\server\server\bin\Debug\GameData\game1.txt.txt' for client 127.0.0.1:56167.
+2024-12-06 12:02:43 - Game session started for client 127.0.0.1:56167.
+2024-12-06 12:02:43 - Sent to 127.0.0.1:56167: START_GAME|thisawhenaebxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx|10
+2024-12-06 12:02:53 - Received from 127.0.0.1:56167: GUESS|this
+2024-12-06 12:02:53 - Sent to 127.0.0.1:56167: FEEDBACK|correct|1|9
+2024-12-06 12:03:10 - Error with client 127.0.0.1:56167: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+2024-12-06 12:03:10 - Client disconnected: 127.0.0.1:56167
+2024-12-06 12:42:39 - Server started on IP 127.0.0.1 and port 13000.
+2024-12-06 15:24:54 - Server started on IP 127.0.0.1 and port 13000.
+2024-12-06 15:41:19 - Server started on IP 127.0.0.1 and port 13000.
+2024-12-07 15:17:22 - Server started on IP 127.0.0.1 and port 13000.
+2024-12-07 16:24:58 - Server started on IP 127.0.0.1 and port 13000.
+2024-12-07 16:28:08 - Server is stopping...
+2024-12-07 16:28:08 - Server has stopped successfully.
+2024-12-07 16:31:28 - Server started on IP 127.0.0.1 and port 13000.
+2024-12-07 16:33:01 - Client connected: 127.0.0.1:51560
+2024-12-07 16:33:01 - Game data loaded from 'D:\.net\server\server\bin\Debug\GameData\game1.txt.txt' for client 127.0.0.1:51560.
+2024-12-07 16:33:01 - Game session started for client 127.0.0.1:51560.
+2024-12-07 16:33:01 - Sent to 127.0.0.1:51560: START_GAME|thisawhenaebxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx|10
+2024-12-07 16:33:06 - Error with client 127.0.0.1:51560: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+2024-12-07 16:33:06 - Client disconnected: 127.0.0.1:51560
+2024-12-07 17:25:46 - Server started on IP 127.0.0.1 and port 13000.
+2024-12-07 18:03:17 - Server started on IP 127.0.0.1 and port 13000.
+2024-12-07 18:04:42 - Server started on IP 127.0.0.1 and port 13000.
+2024-12-08 05:38:10 - Server started on IP 127.0.0.1 and port 13000.
+2024-12-08 16:16:48 - Server started on IP 127.0.0.1 and port 13000.
+2024-12-08 17:41:11 - Server started on IP 127.0.0.1 and port 13000.
+2024-12-08 17:45:57 - Server started on IP 127.0.0.1 and port 13000.
+2024-12-08 18:32:34 - Server started on IP 127.0.0.1 and port 13000.
+2024-12-09 11:24:52 - Server started on IP 127.0.0.1 and port 13000.
+2024-12-09 16:09:20 - Server started on IP 127.0.0.1 and port 13000.
+2024-12-11 09:34:06 - Server started on IP 127.0.0.1 and port 13000.
+2024-12-11 13:07:49 - Server started on IP 127.0.0.1 and port 13000.
+2024-12-11 15:04:31 - Server started on IP 127.0.0.1 and port 13000.
+2024-12-12 20:10:32 - Server started on IP 127.0.0.1 and port 13000.
+2024-12-12 22:23:40 - Server started on IP 127.0.0.1 and port 13000.
+2024-12-13 12:40:47 - Server started on IP 127.0.0.1 and port 13000.
+2024-12-13 17:25:17 - Server started on IP 127.0.0.1 and port 13000.
+2024-12-13 18:46:20 - Server started on IP 127.0.0.1 and port 13000.
+2024-12-13 18:53:16 - Server is stopping...
+2024-12-13 18:53:16 - Listener stopped.
+2024-12-13 18:53:16 - Server has stopped successfully.
